@@ -10,7 +10,8 @@
 - Excel
 - Power BI
 - CSS
-- HTML 
+- HTML
+- Fast Typing 
 
 ## Current Focus
 Learning Data Analytics and Building Projects
