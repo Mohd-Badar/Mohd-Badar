@@ -27,3 +27,6 @@ And also learning iOS Ecosystem development...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohd-Badar&show_icons=true&theme=tokyonight)
 
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Mohd-Badar)
