@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mohd Badar 👋
 
-<!--
-**Mohd-Badar/Mohd-Badar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SQL
+- Python basics 
+- Excel
+- Power BI
+- CSS
+- HTML 
+
+## Current Focus
+Learning Data Analytics and Building Projects
+And also learning iOS Ecosystem development...
