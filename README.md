@@ -6,7 +6,7 @@
 
 ## Skills
 - SQL
-- Python basics 
+- Python
 - Excel
 - Power BI
 - CSS
