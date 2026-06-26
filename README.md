@@ -9,11 +9,10 @@
 - SQL
 - My SQL
 - Postgre SQL
-- Github
 - Excel
-- Power BI
-- CSS
+- GitHub 
 - HTML
+- CSS
 - Xcode
 - Swift
 - Fast Typing 
