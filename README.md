@@ -17,9 +17,6 @@
 - Swift
 - Fast Typing
 
-## Typing Certificate 
-![Certificate](typing_certificate.jpg)
-
 ## Current Focus
 Learning Data Analytics and Building Projects
 And also learning iOS Ecosystem development...
@@ -39,3 +36,6 @@ And also learning iOS Ecosystem development...
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Badar&layout=compact&theme=tokyonight)
+
+## Typing Certificate 
+![Certificate](typing_certificate.jpg)
