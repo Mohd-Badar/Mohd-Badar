@@ -25,7 +25,7 @@ And also learning iOS Ecosystem development...
 ## 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,c,git,github,vscode,css,swift,Xcode,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,c,git,github,vscode,css,swift,xcode,postgres" />
 </p>
 
 ## 📊 GitHub Stats
