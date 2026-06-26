@@ -18,7 +18,7 @@
 - Fast Typing
 
 ## Typing Certificate 
-![Certificate](typing_certificate.png)
+![Certificate](typingcertificate.png)
 
 ## Current Focus
 Learning Data Analytics and Building Projects
