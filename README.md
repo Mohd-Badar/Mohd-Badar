@@ -15,7 +15,10 @@
 - CSS
 - Xcode
 - Swift
-- Fast Typing 
+- Fast Typing
+
+## Typing Certificate 
+![Certificate](typing certificate.png)
 
 ## Current Focus
 Learning Data Analytics and Building Projects
