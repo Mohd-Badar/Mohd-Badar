@@ -5,12 +5,17 @@
 📊 Aspiring Data Analyst
 
 ## Skills
-- SQL
 - Python
+- SQL
+- My SQL
+- Postgre SQL
+- Github
 - Excel
 - Power BI
 - CSS
 - HTML
+- Xcode
+- Swift
 - Fast Typing 
 
 ## Current Focus
@@ -20,7 +25,7 @@ And also learning iOS Ecosystem development...
 ## 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,c,git,github,vscode,css,swift,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,c,git,github,vscode,css,swift,Xcode,postgres" />
 </p>
 
 ## 📊 GitHub Stats
