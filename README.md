@@ -30,10 +30,6 @@ And also learning iOS Ecosystem development...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode"/>
 </p>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohd-Badar&show_icons=true&theme=tokyonight)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Badar&layout=compact&theme=tokyonight)
 
