@@ -2,7 +2,7 @@
 
 🎓 BCA Student
 
-📊 Aspiring Data Analyst
+📊 Aspiring iOS Developer and Data Analyst
 
 ## Skills
 - Python
