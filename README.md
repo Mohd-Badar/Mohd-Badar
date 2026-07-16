@@ -6,6 +6,8 @@
 
 ## Skills
 - Python
+- Xcode
+- Swift
 - SQL
 - My SQL
 - Postgre SQL
@@ -13,8 +15,6 @@
 - GitHub 
 - HTML
 - CSS
-- Xcode
-- Swift
 - Fast Typing
 
 ## Current Focus
