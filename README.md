@@ -33,5 +33,9 @@ And also learning iOS Ecosystem development...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Badar&layout=compact&theme=tokyonight)
 
 
+## Apple Ecosystem Development Certificate 
+![Certificate](appleCertificate.pdf)
+
+
 ## Typing Certificate 
 ![Certificate](typing_certificate.jpg)
