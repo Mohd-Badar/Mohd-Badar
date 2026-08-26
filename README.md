@@ -36,4 +36,4 @@ And also learning iOS Ecosystem development...
 
 
 ## Typing Certificate 
-![Certificate](typingCertificate.jpg)
+![Certificate](typingCertificate.pdf)
