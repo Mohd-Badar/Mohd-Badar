@@ -30,10 +30,6 @@ And also learning iOS Ecosystem development...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode"/>
 </p>
 
-<a href="https://github.com/Mohd-Badar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Badar&layout=compact&theme=dark" alt="Top Languages" />
-</a>
-
 
 ## Apple Ecosystem Development Certificate 
 ![Certificate](appleCertificate.jpg)
